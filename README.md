@@ -16,4 +16,13 @@ Install NvChad
 git clone https://github.com/NvChad/starter ~/.config/nvim && neovim
 ```    
 
+Clean up git repo
+```
+rm -rf ~/.config/nvim/.git
+```
 
+# Coding Setup
+```
+pkg i golang
+pkg i python
+```
